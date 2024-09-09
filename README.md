@@ -7,7 +7,7 @@
 This data analysis project aims to provide the solutions to the business problems/ questions related to the store performance. 
 
 ### Data Sources
-Music Data: The primary dataset used for this analysis is the "digitalmusic_store.sql" file, containing detailed information about song, genre, singer, country, album etc. available on the digital store.
+Music Data: The primary dataset used for this analysis is the "Digitalmusic_store.sql" file, containing detailed information about song, genre, singer, country, album etc. available on the digital store.
 
 ### Tools
 - SQL - Data Analysis
